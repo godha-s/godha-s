@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanmuka</h1>
 <h3 align="center">I'm a Software Engineer, Full-Stack Application Developer.</h3>
 
-- 📚 I'm Currently Pursuing Masters in Analytics **at Northeaster University, Boston**
+- 📚 I'm Currently Pursuing Masters in Analytics **at Northeastern University, Boston**
 
 - 🌱 I’m currently learning **Python, R & Machine Learning**
 
