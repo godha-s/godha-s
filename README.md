@@ -3,7 +3,7 @@
 
 - 📚 I'm Currently Pursuing Masters in Analytics **at Northeastern University, Boston**
 
-- 🌱 I’m currently learning **Python, R & Machine Learning**
+- 🌱 I’m currently learning **Python, R , SQL & Machine Learning**
 
 - 💬 Ask me about **Kotlin, Android & Rest API's**
 
