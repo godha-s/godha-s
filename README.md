@@ -18,4 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmuka-g&show_icons=true&locale=en&layout=compact" alt="godha-s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanmuka-g&show_icons=true&locale=en" alt="godha-s" /></p>
-
